@@ -1,0 +1,37 @@
+CMS Lokomedia
+(Update terakhir 06 Desember 2009)
+
+
+- Seiring terbitnya buku 'TRIK RAHASIA MASTER PHP TERBONGKAR LAGI',
+dimana didalamnya dibahas perbaikan bug, trik security (keamanan), dan penambahan beberapa modul baru (fitur-fitur terbaru),maka CMS Lokomedia pun resmi update.
+
+
+- Syarat utama menjalankan CMS Lokomedia, pastikan mod_rewrite pada server Apache sudah diaktifkan, caranya ada di buku atau 
+bisa disaksikan langsung video tutorialnya yang ada di CD.
+
+
+- Untuk masuk ke halaman Administrator, ketik alamat berikut:
+
+http://localhost/lokomedia/adminweb/
+
+atau kalau sudah di online-kan:
+
+http://namadomain/adminweb/
+
+Isikan Username: admin dan Password: admin.
+Tips: Segera ganti passwordnya apabila Anda sudah masuk ke halaman Administrator.  
+
+
+- Adapun file untuk konfigurasi database bisa Anda temukan di folder lokomedia/config/koneksi.php, silahkan sesuaikan dengan username 
+dan password database di komputer atau server hosting(domain) Anda.
+
+
+- Dan terakhir, kritik dan saran membangun sangat saya harapkan dari para pembaca/pengguna CMS Lokomedia agar terus dapat berjalan 
+dengan baik dan stabil.
+
+
+
+Salam Hangat,
+
+Lukmanul Hakim
+(www.bukulokomedia.com)
